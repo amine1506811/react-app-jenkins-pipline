@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        <h1> Hello World </h1>
+        <h1> Hello World :) </h1>
       <h2> My name is Amine </h2>
 <h3> this is my first (CI/CD) pipeline </h3>
         </p>
